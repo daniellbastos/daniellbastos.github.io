@@ -30,7 +30,7 @@ THEME = 'themes'
 MENUITEMS = [('Home', '/')]
 
 DISQUS_SITENAME = 'daniellbastos'
-
+GOOGLE_ANALYTICS = 'UA-39829332-1'
 
 # NEST Template Config
 NEST_CSS_MINIFY = True
