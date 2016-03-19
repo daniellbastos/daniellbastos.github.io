@@ -1,5 +1,5 @@
 Title: Como a política interfere na moral do povo
-Date: 2016-03-16 16:00
+Date: 2016-03-19 10:00
 Category: moral
 Tags: politica, ética, moral, pensamento
 Slug: como-a-política-interfere-na-moral-do-povo
