@@ -29,6 +29,9 @@ THEME = 'themes'
 
 MENUITEMS = [('Home', '/')]
 
+PLUGIN_PATHS = ['./plugins/pelican-plugins']
+PLUGINS = ['pelican_youtube']
+
 DISQUS_SITENAME = 'daniellbastos'
 GOOGLE_ANALYTICS = 'UA-39829332-1'
 
