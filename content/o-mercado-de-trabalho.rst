@@ -4,7 +4,7 @@
 :tags: filosofia, mercador de trabalho
 :slug: o-mercado-de-trabalho
 :author: Daniel Bastos
-:illustration: recomendacoes-nao-tecnicas.png
+:illustration: pensamento.jpg
 
 
 Fala pessoal, beleza?

@@ -4,7 +4,7 @@
 :tags: filosofia
 :slug: pelo-que-me-pagam
 :author: Daniel Bastos
-:illustration: recomendacoes-nao-tecnicas.png
+:illustration: pensamento.jpg
 
 
 Fala pessoal, beleza?

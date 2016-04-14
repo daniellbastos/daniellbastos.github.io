@@ -4,7 +4,7 @@ Category: recomendações
 Tags: geral, política, filosofia
 Slug: recomendacoes-nao-tecnicas
 Author: Daniel Bastos
-Illustration: recomendacoes-nao-tecnicas.png
+Illustration: pensamento.jpg
 
 
 Fala pessoal, beleza?
