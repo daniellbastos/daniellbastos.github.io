@@ -98,11 +98,12 @@ eles vem sofrendo. Eu não estou ignorando esse fato, fico triste em ver esse
 desrespeito com os profissionais da educação, tive ótimos professores/diretores,
 mas não posse deixar de criticar aquilo que está errado (no meu ponto de vista).
 
-Tenho uma filha que vai precisar de educação em breve, e me preocupo com isso
-desde a sua gestação. Venho me esforçando a cada dia para ter condições de
-prover uma educação de qualidade, além da base que ela vai receber em casa.
+Tenho uma filha que vai precisar frequentar escolas educação em breve, e me
+preocupo com isso desde a sua gestação. Venho me esforçando a cada dia para ter
+condições de prover uma educação de qualidade, além da base que ela vai receber
+em casa.
 
 Tem que haver uma solução, mas não vejo a privação da educação, que vem ocorrendo
 nos últimos dias, como uma solução viável.
 A solução que eu vejo esta na esfera política, e **quem deve ser prejudicado com
-essa situação toda deve ser os políticos e não os alunos**.
+essa situação toda os políticos e não os alunos**.
