@@ -42,15 +42,15 @@ pro meu lado.
 
 Repensando sobre o assunto cheguei a conclusão que não, essas pequenas ações
 mostram de fato quem sou eu. Procuro sempre ser o mais autêntico possível,
-deixando quem sou eu e como eu me comporto.
+deixando claro quem sou eu, como me comporto, como sou de fato no meu dia-a-dia.
 
 Todo mundo fala palavrão, não acho que isso seja um problema (apesar que tem
 gente que exagera, não é o meu caso) e muitas vezes vemos pessoas forçando a
-barra tentando parecer ser outras, mais cultas, mais educadas, etc.
+barra tentando parecer ser outras pessoas, mais cultas, mais educadas, etc.
 
 Por isso acho muito válido ser autêntico, para deixar claro para os outros quem
 você realmente é, e prover informações para que a pessoa possa escolher se
-quer, ou não que, conviver com você. Claro que há momentos que precisamos dar
+quer, ou não quer, conviver com você. Claro que há momentos que precisamos dar
 uma amenizada nas nossas atitudes, o que faz parte do jogo. O que não pode é
 se moldar conforme o ambiente.
 
