@@ -29,11 +29,11 @@ Como a minha carreira foi alicerceada em tecnologias *open-source*, sempre quis
 retribuir de alguma forma (financeiramente não rola ainda :/).
 Por isso quis contribuir com projetos *open-source*. Mas qual projeto? Como?
 
-Cosse a propria cosseira
+Cosse a própria cosseira
 ------------------------
 
 Com o questionamento na cabeça (qual projeto posso ajudar?), fiquei muito tempo
-sem resposta e parei de tentar responde-la. A ideia acabou ficando em segundo
+sem resposta e parei de tentar respondê-la. A ideia acabou ficando em segundo
 plano, e segui tocando a vida.
 
 Eis que um dia criei um projeto pra brincar com a API do Facebook. Normalmente
@@ -41,7 +41,7 @@ costumo tentar resolver tudo com Python 3 (pra já ir me familiarizando com as
 mudanças, já que hoje no meu trabalho ainda uso o Python 2.7 com Django).
 
 Brincando com a API do Facebook, usei Python 3 e MongoDB para consumir
-os dados da API, e agora chegou a hora de criar um site pra visualiza-los melhor.
+os dados da API, e agora chegou a hora de criar um site pra visualizá-los melhor.
 Então para expor os dados, usei o Bottle com a *lib* `BottleCBV <https://github.com/techchunks/bottleCBV>`_.
 Sempre gostei muito do micro-framework Bottle pela sua simplicidade, e sempre
 achei que um dia poderia contribuir com ele, pela sua simplicidade.
