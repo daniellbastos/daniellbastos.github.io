@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Daniel Bastos'
 SITENAME = 'Daniel Bastos'
 SITESUBTITLE = 'Web Developer - Python Programmer - Linux User'
-SITEURL = 'http://www.daniellbastos.com.br'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -25,7 +25,10 @@ DEFAULT_PAGINATION = 20
 SUMMARY_MAX_LENGTH = 250
 
 THEME = 'attila'
-RELATIVE_URLS = True
+RELATIVE_URLS = False
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # plugins
 DISQUS_SITENAME = 'daniellbastos'
