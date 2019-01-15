@@ -15,7 +15,7 @@ Minhas expertises são:
 
 - Python/Django (+8 anos)
 - Web development (+11 anos)
-- Remote work (+5 years)
+- Remote work (+5 anos)
 - API REST
 - Microservices
 - Third-party integrations
