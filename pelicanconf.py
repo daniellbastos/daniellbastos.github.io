@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Daniel Bastos'
 SITENAME = 'Daniel Bastos'
 SITESUBTITLE = 'Web Developer - Python Programmer - Linux User'
-SITEURL = ''
+SITEURL = 'https://daniellbastos.com.br'
 
 PATH = 'content'
 
@@ -27,8 +27,22 @@ SUMMARY_MAX_LENGTH = 250
 THEME = 'attila'
 RELATIVE_URLS = False
 
-STATIC_PATHS = ['images', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['static/', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
+CSS_OVERRIDE = ['static/css/custom.css']
+
+
+# bio
+AUTHORS_BIO = {
+    'daniellbastos': {
+        'name': 'Daniel Bastos',
+        'image': 'static/img/me.png',
+        'linkedin': 'daniellbastos',
+        'github': 'daniellbastos',
+        'location': 'Esteio/RS',
+        'bio': ''
+    }
+}
 
 # plugins
 DISQUS_SITENAME = 'daniellbastos'
