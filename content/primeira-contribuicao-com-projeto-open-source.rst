@@ -3,7 +3,7 @@
 :category: open-source
 :tags: python, open-source, bottle
 :slug: primeira-contribuicao-com-projeto-open-source
-:author: Daniel Bastos
+:author: daniellbastos
 :illustration: primeira-contribuicao.png
 
 

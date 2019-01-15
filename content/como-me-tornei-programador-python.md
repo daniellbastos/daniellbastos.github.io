@@ -3,7 +3,7 @@ Date: 2016-03-22 17:00
 Category: tecnologia
 Tags: carreira, python
 Slug: como-me-tornei-programador-python
-Author: Daniel Bastos
+Author: daniellbastos
 Illustration: como-me-tornei-programador-python.png
 
 

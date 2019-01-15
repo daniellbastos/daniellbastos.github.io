@@ -3,7 +3,7 @@
 :category: palestra
 :tags: python, django, bdd
 :slug: palestra-no-iff-poa
-:author: Daniel Bastos
+:author: daniellbastos
 :illustration: como-me-tornei-programador-python.png
 
 

@@ -1,7 +1,7 @@
 Title: Por que voltei a usar o Pelican?
 Date: 2019-01-15 07:33
 Slug: por-que-voltei-a-user-o-pelican
-Author: Daniel Bastos
+Author: daniellbastos
 Tags: cotidiano
 
 
