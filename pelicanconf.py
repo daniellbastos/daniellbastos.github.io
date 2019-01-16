@@ -5,13 +5,15 @@ from __future__ import unicode_literals
 AUTHOR = 'Daniel Bastos'
 SITENAME = 'Daniel Bastos'
 SITESUBTITLE = 'Web Developer - Python Programmer - Linux User'
-SITEURL = 'https://daniellbastos.com.br'
+SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
+
+THEME = 'attila'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
