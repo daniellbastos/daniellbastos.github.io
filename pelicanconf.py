@@ -13,6 +13,7 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
+THEME_STATIC_DIR = './theme'
 THEME = 'attila'
 
 # Feed generation is usually not desired when developing
