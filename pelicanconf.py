@@ -24,7 +24,6 @@ DEFAULT_PAGINATION = 20
 
 SUMMARY_MAX_LENGTH = 250
 
-THEME = 'attila'
 RELATIVE_URLS = False
 
 STATIC_PATHS = ['static/', 'extra/CNAME']
