@@ -48,9 +48,8 @@ da adolescência e aquele ambiente tóxico em que viviam.
 imposto aos amigos do J. Peterson. Não é, de maneira alguma, uma frase em tom de soberba, como só "os capazes"
 superam o ambiente.*
 
-![Pessoas que queiram o melhor para você]({static}/static/img/seja-amigo-de-pessoas-que-queiram-o-melhor-para-voce-1.jpg){:style="margin: 0 auto;"}
 ### Pessoas que queiram o melhor para você
-
+![Pessoas que queiram o melhor para você]({static}/static/img/seja-amigo-de-pessoas-que-queiram-o-melhor-para-voce-1.jpg){:style="margin: 0 auto;"}
 
 Parece papo de auto-ajuda ou narcisismo puro. Mas hoje eu consigo lembrar de casos reais, onde eu vivenciei
 esse tipo de trama relatado pelo J. Peterson. Claro que salvaguardando as devidas proporções.
