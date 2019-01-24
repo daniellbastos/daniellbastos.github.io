@@ -3,6 +3,7 @@ Date: 2019-01-15 07:33
 Slug: por-que-voltei-a-user-o-pelican
 Author: daniellbastos
 Tags: cotidiano
+Status: draft
 
 
 Depois de muito tempo tendo abandonado o meu blog (que nunca foi muito ativo também) resolvi reativar ele.
