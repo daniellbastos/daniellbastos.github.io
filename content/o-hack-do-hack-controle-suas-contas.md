@@ -9,7 +9,7 @@ Quem aqui já deixou de controlar os gastos por não ter paciência de "planilha
 
 Quem aqui sabe, exatamente, para onde vai a maior parte do seu dinheiro?
 
-Quem aqui aqui quer mudar essa confusão financeira que suas contas viraram?
+Quem aqui quer mudar essa confusão financeira que suas contas viraram?
 
 Se a sua resposta foi: **Sim, Não, Sim**. Então esse post vai te ajudar.
 
@@ -18,10 +18,10 @@ Eu não tenho a pretensão de ensinar o que você deve, ou não deve, fazer com 
 posso dizer com certeza que você **deve** ter o mínimo de controle dos seus gastos. Eu digo *deve*, não porque eu
 sou um exemplo, mas porque posso ser um contra-exemplo.
 
-Não tenho dívidas no meu nome e não estou "matando cachorro" a grito, mas faz muito tempo que não me sinto
-confortável com minhas finanças. E esse desconforto vem justamente por não ter esse controle das finanças.
+Não tenho dívidas no meu nome e não estou "matando cachorro" a grito, mas faz algum tempo que não me sinto
+confortável com minhas finanças. E esse desconforto vem justamente por eu não ter um bom controle financeiro.
 
-Então vou mostrar como eu estou **começando** a resolver esse problema. Sim, o problema ainda existe, mas estou
+Então vou mostrar como eu estou fazendo para resolver esse problema. Sim, o problema ainda existe, mas estou
 caminhando para resolver essa situação.
 
 ## Hackeie sua preguiça
@@ -30,50 +30,50 @@ Toda iniciativa que eu fiz, de ter as finanças da casa em controle, foi frustra
 de preencher planilhas. Então a ideia aqui é mostrar alguns *hacks* para facilitar esse trabalho. Talvez não
 resolva todo o problema, mas diminiu o tamanho do obstáculo.
 
-O termo **hack**, para quem não está familiarizado, é um análogo a "**hackear algo**". É forçar um sistema a fazer
-algo diferente daquilo qual ele foi concebido. Isso não é, necessariamente, igual aquelas cenas de filmes onde
+O termo **hack**, para quem não está familiarizado, é um análogo a "**hackear/burlar algo**", é forçar um sistema a fazer
+algo diferente daquilo qual ele foi concebido. Isso não é, necessariamente, como aquelas cenas de filmes onde
 um nerd (não geek) fica trancado em seu porão e quebra o sistema de segurança de um banco.
 
 Aqui, o termo **hack** está mais para: "**Criar meios para que o sistema resolva as minhas necessidades com o
 menor esforço possível.**"
 
-Nesse caso, o "sistema/fluxo/rotina" que eu quero "hacker" é a rotina de preencher valores em uma planilha,
-com o menor esforço possível.
+Nesse caso, o "sistema/fluxo/rotina" que eu quero "hacker" é a rotina de preencher valores em uma planilha.
 
 
 ## O hack
 
-Após um longo tempo conversando sobre a necessidade de ter o controle dos gastos, o meu amigo Augusto Goulart,
-compartilhou o seu hack para "burlar" o sistema de preenchimento de planilhas.
+Após um tempo conversando sobre a necessidade de ter o controle dos gastos, o meu amigo Augusto Goulart,
+compartilhou comigo o seu hack para "burlar" o sistema de preenchimento de planilhas.
 
 Basicamente consistem em criar um grupo no Whatsapp com a esposa (ou os membros da família) e usar esse grupo
 **apenas** para anotar os gastos. Esse grupo irá receber mensagens com o seguinte padrão: `Mercado,120`,
 `Farmácia,150.36`, etc.
 
-Inicialmente parece dar o mesmo trabalho de anotar em um planilha, mas a ideia é anotar os gastos do jeito mais
-prático possível, para não precisar ter que, ao final do dia, pegar notinha por notinha e passar a limpo na
-planilha.
+Inicialmente parece dar o mesmo trabalho de anotar em um planilha, mas a ideia é anotar os gastos de um jeito
+mais prático. Isso evita ter que, ao final do dia/semana, pegar notinha por notinha e passar a limpo na planilha.
 
 Uma vez que os valores estão salvos nesse grupo do Whatsapp, você só precisa pegar um dia e usar o
-recurso de exportar mensagens do grupo. O Whatsapp cria um arquivo no formato de texto (`nome-do-arquivo.txt`),
-como você padronizou as mensagens separadas por `,`, basta mudar a extensão do arquivo para `.csv` e importar o
+recurso de exportar as mensagens do grupo. O Whatsapp cria um arquivo no formato de texto (`nome-do-arquivo.txt`),
+então como você padronizou as mensagens separadas por `,`, basta mudar a extensão do arquivo para `.csv` e importar o
 conteúdo na sua planilha.
 
+
+Muito simples, não?
 
 ## O hack do hack
 
 Realmente, não há escapatória para o trabalho de anotar todos os gastos. Porém eu queria evitar
-esse último passo, de exportar o histórico de conversa do grupo para importar na planilha.
+esse último passo, de exportar o histórico do Whatsapp para importar na planilha.
 
 Pensando nisso, fui pesquisar se não teria como criar uma automação nessa etapa do processo. Foi quando eu
 lembrei que poderia criar um bot no **Telegram** para fazer isso.
 
 
-O Telegram para quem não conhece, é um aplicativo de mensagem similar ao Whatsapp, porém é possível criar
+O Telegram, para quem não conhece, é um aplicativo de mensagem similar ao Whatsapp, porém ele permite criar
 diversas integrações com ele.
 
-Eu nunca havia criado um bot ou qualquer tipo de automação usando o Telegram, mas desconfiava que isso era
-possível. Já na primeira pesquisada no Google, encontrei um tutorial para fazer **exatamente** o que eu queria.
+Eu nunca havia criado um bot ou qualquer coisa tipo usando o Telegram, mas desconfiava que isso era
+possível. Já na primeira pesquisada no Google, encontrei um tutorial que fazia **exatamente** o que eu queria.
 
 [>> Confira o tutorial <<][0]
 
@@ -89,8 +89,8 @@ function doPost(e) {
 }
 ```
 
-Agora basta postar a mensagem no bot, seguindo o padrão `<Tipo-do-gasto>,<Valor>` que automaticamente o gasto
-vai para a planilha.
+Agora basta eu ou minha esposa postar a mensagem no bot, seguindo o padrão `<Tipo-do-gasto>,<Valor>` que
+automaticamente o gasto vai para nossa planilha.
 
 
 ## Conclusão
