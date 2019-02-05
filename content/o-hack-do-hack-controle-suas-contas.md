@@ -42,7 +42,7 @@ Nesse caso, o "sistema/fluxo/rotina" que eu quero "hacker" é a rotina de preenc
 
 ## O hack
 
-Após um tempo conversando sobre a necessidade de ter o controle dos gastos, o meu amigo Augusto Goulart,
+Após um tempo conversando sobre a necessidade de ter o controle dos gastos, o meu amigo [Augusto Goulart][0],
 compartilhou comigo o seu hack para "burlar" o sistema de preenchimento de planilhas.
 
 Basicamente consistem em criar um grupo no Whatsapp com a esposa (ou os membros da família) e usar esse grupo
@@ -75,7 +75,7 @@ diversas integrações com ele.
 Eu nunca havia criado um bot ou qualquer coisa tipo usando o Telegram, mas desconfiava que isso era
 possível. Já na primeira pesquisada no Google, encontrei um tutorial que fazia **exatamente** o que eu queria.
 
-[>> Confira o tutorial <<][0]
+[>> Confira o tutorial <<][1]
 
 Segui o tutorial e fiz apenas uma adaptação na função `doPost`:
 ```
@@ -102,4 +102,5 @@ E ai, o que achou?
 
 Comenta ai sua opinião e como você faz para controlar seus gastos.
 
-[0]: https://www.youtube.com/watch?v=mKSXd_od4Lg
+[0]: https://twitter.com/gus_goulart
+[1]: https://www.youtube.com/watch?v=mKSXd_od4Lg
