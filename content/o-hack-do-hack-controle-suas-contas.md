@@ -37,7 +37,7 @@ um nerd (não geek) fica trancado em seu porão e quebra o sistema de segurança
 Aqui, o termo **hack** está mais para: "**Criar meios para que o sistema resolva as minhas necessidades com o
 menor esforço possível.**"
 
-Nesse caso, o "sistema/fluxo/rotina" que eu quero "hacker" é a rotina de preencher valores em uma planilha.
+Nesse caso, o "sistema/fluxo/rotina" que eu quero "hackear" é a rotina de preencher valores em uma planilha.
 
 
 ## O hack
