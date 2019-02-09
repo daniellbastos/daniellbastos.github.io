@@ -18,7 +18,7 @@ Mas eu realmente quis fazer esse post porque acredito que deve ter mais gente,
 assim como eu, que nunca contribui com projetos *open-source*, mas gostariam,
 então resolvi fazer o meu breve relato.
 
-Por que contrinuir?
+Por que contribuir?
 -------------------
 
 Sempre achei nobre a atitude das pessoas que disponibilizam seus projetos
