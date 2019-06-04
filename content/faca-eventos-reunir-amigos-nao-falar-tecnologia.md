@@ -83,7 +83,9 @@ Lembranças essas que agora estavam sendo vividas por aqueles dois jovens, que t
 
 Esse é o resultado da organização do evento: **Muita correria, desgaste e um enorme prazer em proporcionar momentos como esse!**
 
+[CONFIRA ALGUMAS DAS FOTOS DO EVENTO PySM 2019][3]
 
 [0]: https://pysm.github.io/
 [1]: https://photos.app.goo.gl/dx32YPXSGEdJMMu39
 [2]: https://photos.app.goo.gl/MxSYteJKMxm5oCPC7
+[3]: https://photos.app.goo.gl/6XXnP97qFFsB6p819
