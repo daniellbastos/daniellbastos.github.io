@@ -23,9 +23,10 @@ Os integrantes do **segundo grupo (placebo) cometeram o dobro de erros que os do
 # Minhas conclusões
 É muito comum ouvirmos diversas dicas para melhorar nossa performance, fazendo listas, executar o mais importante primeiro, etc. Tudo isso pode funcionar. Mas vendo os dados das pesquisas, fica mais claro o motivo dessas dicas funcionarem.
 **Força de vontade e concentração são recursos que variam muito durante o dia**, ter a consciência dos momentos em que você consegue ser mais produtivo é crucial para obter um bom resultado em duas atividades. E para os momentos em que você é menos produtivo, talvez essas dicas que eu tenho tentado realizar diariamente podem te ajudar:
-- **Levanto e vou pegar uma água ou café:** Sair do local onde estou é importante, por isso gosto de ter uma garrafa com água sempre por terminar na mesa;
-- **Dou um “alô” para a família:** Papo rápido, coisa de 3min. Dar essa atenção no momento em que eu defino é importante para evitar que alguém da família queria conversar comigo no momento em que estou extremamente focado.
-- **Pego algo para comer e como fora do escritório:** De preferência eu pego alguma fruta (maçã ou banana) pela praticidade e também porquê são alimentos ricos em açúcar.
+
+* **Levanto e vou pegar uma água ou café:** Sair do local onde estou é importante, por isso gosto de ter uma garrafa com água sempre por terminar na mesa;
+* **Dou um “alô” para a família:** Papo rápido, coisa de 3min. Dar essa atenção no momento em que eu defino é importante para evitar que alguém da família queria conversar comigo no momento em que estou extremamente focado.
+* **Pego algo para comer e como fora do escritório:** De preferência eu pego alguma fruta (maçã ou banana) pela praticidade e também porquê são alimentos ricos em açúcar.
 
 Ainda não tenho dados para medir se a minha produtividade aumentou ou não depois que comecei a executar esses itens. Porém me sinto bem em poder fazer essas pausas sem culpa, isso deixa “mais leve” o dia de trabalho.
 
