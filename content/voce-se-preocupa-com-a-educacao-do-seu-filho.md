@@ -11,7 +11,7 @@ pra mim, quando fiquei sabendo que ia ser pai. Logo após a notícia, comecei um
 sobre educação e desenvolvimento infantil.
 
 Entre leituras e estudos focados na educação da minha filha, veio a seguinte reflexão: **Eu estou realmente
-preocupado com a educação da minha filha. Mas o que estou fazendo pela sua própria educação?**
+preocupado com a educação da minha filha. Mas o que estou fazendo pela minha própria educação?**
 
 Passei muito tempo pensando nisso e sempre vinha aquele "cagaço", será que estou seguindo pelo caminho certo?
 
