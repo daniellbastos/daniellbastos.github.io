@@ -4,8 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Daniel Bastos'
 SITENAME = 'Daniel Bastos'
-SITESUBTITLE = 'Web Developer - Python Programmer - Linux User'
+SITESUBTITLE = 'Web Developer / Python Programmer'
 SITEURL = ''
+HEADER_COVER = 'static/img/daniellbastos-banner.jpg'
 
 PATH = 'content'
 
