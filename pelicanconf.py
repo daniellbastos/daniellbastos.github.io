@@ -24,7 +24,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DEFAULT_PAGINATION = 20
+DEFAULT_PAGINATION = 5
 
 SUMMARY_MAX_LENGTH = 250
 
@@ -43,7 +43,7 @@ AUTHORS_BIO = {
         'linkedin': 'daniellbastos',
         'github': 'daniellbastos',
         'location': 'Esteio/RS',
-        'bio': ''
+        'cover': 'static/img/daniellbastos-banner.jpg',
     }
 }
 
