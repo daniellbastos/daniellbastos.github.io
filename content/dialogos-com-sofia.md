@@ -43,7 +43,7 @@ _(Respiro fundo para não rir)_
 
 — Jura?
 
-— Não vai mais existir dinheiro. A partir de agora vamos usar folhas das árvores no lugar das notas. Assim o sonho de todo mundo vai se realizar, agora “o dinheiro vai dar em árvore”.
+— Não vai mais existir dinheiro. A partir de agora vamos usar as folhas das árvores no lugar das notas. Assim o sonho de todo mundo vai se realizar, agora “o dinheiro vai dar em árvore”.
 
 — Realmente, isso resolveria muitos problemas.
 
