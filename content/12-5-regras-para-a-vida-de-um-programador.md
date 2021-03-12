@@ -14,7 +14,7 @@ Hoje vou falar de uma dessas pessoas que eu costumo ouvir e ler, o meu amigo [Cl
 por Til Cléber.
 
 Muitas vezes ele fala e apresenta coisas que eu nunca tinha ouvido falar. Coisas de baixo nível (de programação,
-não é o você está pensando), coisas sobre sistema operacional Linux/Unix, etc. Eu sempre ouço com muita atenção!
+não é o que você está pensando), coisas sobre sistema operacional Linux/Unix, etc. Eu sempre ouço com muita atenção!
 
 As vezes, as coisas que ele costuma compartilhar não faz parte da minha realidade. Muitas das vezes eu não
 concordo 100%, pois tendo a pensar mais pelo lado "business" do que pelo lado "técnico". E nem sempre o que é
