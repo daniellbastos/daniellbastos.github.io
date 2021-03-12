@@ -11,7 +11,7 @@ mais experiêntes. Como eles se organizam e pensam nas hora de criar boas soluç
 aparecem diariamente no nosso trabalho.
 
 Hoje vou falar de uma dessas pessoas que eu costumo ouvir e ler, o meu amigo [Cléber Zavadniak][0]{:target="blank"}. Também conhecido
-por Til Cleber.
+por Til Cléber.
 
 Muitas vezes ele fala e apresenta coisas que eu nunca tinha ouvido falar. Coisas de baixo nível (de programação,
 não é o você está pensando), coisas sobre sistema operacional Linux/Unix, etc. Eu sempre ouço com muita atenção!
@@ -25,7 +25,7 @@ ver o que ele ia apresentar. Achei bem legal o vídeo, a explicação, mas não 
 útil nos meus projetos. E também não perguntei pra ele o motivo dele estar estudando essa linguagem de
 programação.
 
-Depois de assistir esse vídeo, o "Youtubiu" me mandou para um vídeo mais antigo do canal do ~cleber. E foi esse
+Depois de assistir esse vídeo, o "Youtubiu" me mandou para um vídeo mais antigo do canal do ~cléber. E foi esse
 vídeo (que eu já tinha assistido) que me motivou a escrever esse post que você está lendo agora (se você ainda
 não desistiu de ler).
 
