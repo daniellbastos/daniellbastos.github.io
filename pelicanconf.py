@@ -5,7 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Daniel Bastos'
 SITENAME = 'Daniel Bastos'
 SITESUBTITLE = 'Web Developer / Python Programmer'
-SITEURL = ''
+# SITEURL = '' # use local
+SITEURL = 'https://daniellbastos.com.br'
 HEADER_COVER = 'static/img/daniellbastos-banner.jpg'
 
 PATH = 'content'
@@ -16,13 +17,13 @@ DEFAULT_LANG = 'pt'
 
 THEME_STATIC_DIR = './theme'
 THEME = 'attila'
-
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+FEED_RSS = 'rss'
 
 DEFAULT_PAGINATION = 5
 
