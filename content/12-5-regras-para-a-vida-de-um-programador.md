@@ -20,10 +20,10 @@ As vezes, as coisas que ele costuma compartilhar não faz parte da minha realida
 concordo 100%, pois tendo a pensar mais pelo lado "business" do que pelo lado "técnico". E nem sempre o que é
 melhor tecnicamente, é o melhor/mais viável para o negócio.
 
-Recentemente ele gravou um novo vídeo sobre [TCL][1]{:target="blank"}. Eu só conhecia ela por nome e fui
-ver o que ele ia apresentar. Achei bem legal o vídeo, a explicação, mas não consegui ver onde TCL poderia ser
-útil nos meus projetos. E também não perguntei pra ele o motivo dele estar estudando essa linguagem de
-programação.
+Recentemente ele gravou um novo vídeo sobre a linguagem de programação [TCL][1]{:target="blank"}. Eu só
+conhecia ela por nome e fui ver o que ele ia apresentar. Achei bem legal o vídeo, a explicação, mas não
+consegui ver onde TCL poderia ser útil nos meus projetos. E também não perguntei pra ele o motivo dele estar
+estudando essa linguagem de programação.
 
 Depois de assistir esse vídeo, o "Youtubiu" me mandou para um vídeo mais antigo do canal do ~cléber. E foi esse
 vídeo (que eu já tinha assistido) que me motivou a escrever esse post que você está lendo agora (se você ainda
