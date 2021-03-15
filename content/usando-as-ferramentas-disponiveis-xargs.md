@@ -17,13 +17,13 @@ estudar um pouco mais sobre Linux, já que frequentemente eu esqueço alguns com
 google muitas vezes (shame).
 
 Hoje vou criar o seguinte cenário hipotético para ajudar a compreender as vantagens de conhecer melhor as
-ferramentas que estão disponíveis no seu sistema operacional.
+ferramentas que estão disponíveis no seu sistema operacional
 
 ## Cenário hipotético
 
-Devido a urgência de lançar o MVP, muitas das funcionalidades menos prioritárias foram deixadas de lado. Uma
-delas foi a feature de recuperação da senha do usuário. Por ser um "caso raro", optou-se por se organizar junto
-ao atendimento, que reuniria os identificadores dos usuários e colocaria todos no mesmo ticket do chamado para a
+Devido a urgência de lançar o MVP, uma empresa decidiu que muitas das funcionalidades menos prioritárias seriam deixadas de lado. Uma
+delas foi a feature de recuperação da senha do usuário. Por ser um "caso raro", ficou combinado que a equipe de atendimento reuniria
+os identificadores dos usuários comproblemas na senhas, e os colocaria no mesmo ticket de chamado para a
 equipe de suporte.
 
 Dado o cenário, optou-se por criar um endpoint simples para isso. Ao fazer uma requisição para esse nosso endpoint,
@@ -33,14 +33,14 @@ A pessoa responsável por atender esse chamado vai pegar o retorno da API e colo
 indentificando o ID do usuário e a sua nova senha. Então o atendimento segue o seu trabalho para informar a
 cada usuário sua nova senha.
 
-Com esse cenário, eu imaginei, dentre as mil formas de se "automatizar" essa rotina, que poderíamos criar um
-script python que vai receber um **único parâmetro** e fazer o request para o endpoint. Depois disso, ele deve
+Com esse cenário, uma dentre as mil formas de se "automatizar" essa rotina, poderia ser criando um
+script python. Esse script irá receber um **único parâmetro** e fazer o request para o endpoint. Depois disso, ele deve
 "cuspir" no terminal as informações no formato: `ID:senha`.
 
-Por que um único ID por vez? Sabendo que vamos precisar rodar o script para uma série de IDs. Por que já não
+Por que um único ID por vez? Sabendo que vamos precisar rodar o script para uma série de IDs, por que já não
 deixar o script preparado para receber uma lista de IDs?
 
-Simples. Esse é o motivo: **ser simples!**
+Simples! Esse é o motivo: **ser simples!**
 
 Vamos fazer um script python bem simples e usar os recursos disponíveis no sistema operacional (Unix)  para
 reutilizar esse script python quantas vezes for necessário.
@@ -69,7 +69,7 @@ response = make_request(user_id)
 print('{}:{}'.format(user_id, response['password']))
 ```
 
-Com pouco mais de dez linhas de código, temos um script python que faz o que a gente espera. E podemos chamar
+Com pouco mais de dez linhas de código, temos um script python que faz exatamente o que esperamos! E podemos chamar
 ele de uma forma extremamente simples:
 
 ```
@@ -89,18 +89,18 @@ Agora, para repetir essa rotina de uma forma simples, vamos criar um arquivo de 
 atendimento põem no ticket, colocando um ID de usuário por linha. E vamos usar esse arquivo como input do
 nosso script python.
 
-Para juntar o script python com o arquivo com os IDs, vamos usar o comando [xargs][0]{:target="blank"} do Unix.
+Para juntar o script python com o arquivo de IDs, vamos usar o comando [xargs][0]{:target="blank"} do Unix.
 Onde a sua definição é:
 `xargs - build and execute command lines from standard input.`
 
-Com essa definição bonitona, vamos conseguir chamar o nosso script python N vezes, passando diferentes inputs
+Com essa definição bonitona, vamos conseguir chamar o nosso script python "N" vezes, passando diferentes inputs
 de uma forma simples. Tipo assim:
 
 ```
 $ xargs -l python reset_passwod.py < arquivo_com_os_ids
 ```
 
-Assim o `xargs` vai pegar cada linha do arquivo e executar o comando (`python reset_password.py`), passando o
+Desta forma, o `xargs` vai pegar cada linha do arquivo e executar o comando (`python reset_password.py`) passando o
 conteúdo da linha como parâmeto de entrada. Então, ao executar o comando acima, vamos ter o seguinte resultado:
 
 ```
