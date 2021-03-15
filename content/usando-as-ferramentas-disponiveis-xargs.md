@@ -25,7 +25,7 @@ ferramentas que estão disponíveis no seu sistema operacional
 
 Devido a urgência de lançar o MVP, uma empresa decidiu que muitas das funcionalidades menos prioritárias seriam deixadas de lado. Uma
 delas foi a feature de recuperação da senha do usuário. Por ser um "caso raro", ficou combinado que a equipe de atendimento reuniria
-os identificadores dos usuários comproblemas na senhas, e os colocaria no mesmo ticket de chamado para a
+os identificadores dos usuários com problemas na senhas, e os colocaria no mesmo ticket de chamado para a
 equipe de suporte.
 
 Dado o cenário, optou-se por criar um endpoint simples para isso. Ao fazer uma requisição para esse nosso endpoint,
