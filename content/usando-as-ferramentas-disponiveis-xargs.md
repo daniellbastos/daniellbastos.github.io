@@ -12,6 +12,8 @@ usuário não dependa de um programador para executar essa rotina. Mas ainda tem
 "Pede para o Automático executar a
 rotina X". E o "Automático" é você!
 
+![Você](static/img/usando-as-ferramentas-disponiveis-xargs-voce.jpg)
+
 Como vivemos no mundo real, isso faz parte da realidade do nosso trabalho. E é por isso que decidi voltar a
 estudar um pouco mais sobre Linux, já que frequentemente eu esqueço alguns comandos e preciso recorrer ao
 google muitas vezes (shame).
