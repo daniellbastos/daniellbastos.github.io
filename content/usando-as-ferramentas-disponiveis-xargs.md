@@ -64,7 +64,7 @@ def make_request(user_id):
     Simulate a request in API.
     """
     allowed_chars = string.ascii_uppercase + string.digits
-    random_string = ''.join([random.choice(allowed_chars) for _ in range(PASSWOD_SIZE)])
+    random_string = ''.join([random.choice(allowed_chars) for _ in range(PASSWORD_SIZE)])
     return {'password': random_string}
 
 response = make_request(user_id)
