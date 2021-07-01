@@ -69,7 +69,7 @@ Precisei equilibrar tudo isso na "*balança dos candidatos*".
 Além disso, tem pessoas que estão dispostas a "*vestir a camisa da empresa*" (*não gosto disso, provavelmente isso daria um novo post*), mas ainda estão no início da sua jornada.
 Em uma empresa com poucos devs, preciso sopesar a decisão sem deixar o "*emocional se sobrepor ao racional*" (*existem muitas falhas nessa afirmação, mas é o melhor exemplo que encontrei*). 
 
-A decisção do **sim** foi fácil, realmente foi fácil. Ao sair da entrevista já sabíamos que o candidato tinha aquilo que procurávamos.
+A decisão do **sim** foi fácil, realmente foi fácil. Ao sair da entrevista já sabíamos que o candidato tinha aquilo que procurávamos.
 
 Porém o **não** foi extremamente difícil de dizer. Tínhamos candidatos com muito potencial, mas não tínhamos estrutura para recebê-los. Havia outros com potencial técnico claro, mas não sabíamos até que ponto o nervosismo da entrevista o havia atrapalhado para expor a sua "pessoa"... Sem saber o que esperar da "pessoa" do candidato, seu nome acabou ficando de lado nesse primeiro momento.
 
