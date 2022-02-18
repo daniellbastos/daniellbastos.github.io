@@ -23,6 +23,8 @@ Sem falar na coragem diária que toda criança com diabetes têm. Com sua rotina
 
 São nesses pequenos atos do cotidiano que a coragem aflora. É na "não  hesitação", nos pequenos "sins" frente ao medo.
 
+![Montanha Solitária](static/img/coragem-de-frente-a-montanha.jpg)
+
 É como na história dO Hobbit, onde Bilbo Bolseiro abandona seu confortável lar para se envolver em diversas aventuras perigosas, enfrentando trolls, goblins e aranhas gigantes. Mas o seu grande ato de coragem é perfeitamente descrito por J. R. R. Tolkien, quando ele precisa entrar na Montanha Solitária, onde está Smaug.
 
 *"Conforme avançava, o brilho crescia e crescia, até que não havia mais dúvidas a respeito. Era uma luz vermelha, que ia ficando cada vez mais e mais vermelha. Além disso, agora estava indubitavelmente quente no túnel. Nuvenzinhas de vapor flutuavam em volta dele, e Bilbo começou a suar. Um som também começou a ecoar em seus ouvidos, uma espécie de borbulhar, como o barulho de uma panela grande fervendo no fogo, misturado com um tremor, como de um gato gigante ronronando. O som foi crescendo até se tornar o barulho inconfundível vindo da garganta de um vasto animal roncando em seu sono, lá embaixo, em meio ao brilho vermelho diante dele.  
