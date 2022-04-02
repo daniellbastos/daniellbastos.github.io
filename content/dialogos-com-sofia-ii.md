@@ -3,7 +3,7 @@ Date: 2022-04-02
 Slug: dialogos-com-sofia-ii
 Author: daniellbastos
 Tags: diálogos, pessoal
-Og_image: static/img/dialogos-com-sofia.jpg
+Og_image: static/img/dialogos-com-sofia-ii.avif
 
 
 ## Diálogos com Sofia III:
