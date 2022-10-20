@@ -52,7 +52,7 @@ Não importa mais. Agora é tarde!
 
 
 Agradeço à Deus pela oportunidade de ter vivido tudo isso que vivi.  
-Peço perdão pelos meus pecados e pelas minha falhas.  
+Peço perdão pelos meus pecados e pelas minhas falhas.  
 
 
 Agora tudo se encerra.
@@ -65,7 +65,7 @@ Se encerra aqui um dia, ou uma vida.
 Espero acordar no outro dia.  
 "Reencarnar" no amanhã e ter a oportunidade de fazer tudo melhor.  
 
-Ser um pai melhor, marido melhor, filho melhor, irmão melhor, amigo melhor, ser melhor.  
+Ser um pai melhor, marido melhor, filho melhor, irmão melhor, amigo melhor, ser melhor!  
 
 
 Agora só me resta desejar uma boa noite à todos!  
