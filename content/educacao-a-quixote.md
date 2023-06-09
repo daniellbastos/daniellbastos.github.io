@@ -3,7 +3,6 @@ Date: 2023-06-09
 Slug: educacao-a-quixote
 Author: daniellbastos
 Tags: pessoal
-Status: draft
 Og_image: static/img/educacao-a-quixote.jpeg
 
 
