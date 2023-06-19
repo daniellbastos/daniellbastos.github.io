@@ -10,7 +10,7 @@ Og_image: static/img/uma-jornada-inesperada1.webp
 > Frodo: Venha, Sam. Lembra o que o Bilbo dizia? É perigoso Frodo, sair porta afora, você pisa na Estrada e se não controlar seus pés, não há como saber até onde você poderá ser levado.
 
 
-Depois que saímos do nosso Condado, onde todos são familiar e tudo é conhecido, passar o dia do aniversário longe dos pais, irmãos e amigos, é algo comum. Sempre fizemos um esforço ou outro para estarmos juntos nessas datas, para celebrar "à moda antiga".
+Depois que saímos do nosso Condado, onde todas pessoas são familiares e tudo é conhecido, passar o dia do aniversário longe dos pais, irmãos e amigos, é algo comum. Sempre fizemos um esforço ou outro para estarmos juntos nessas datas, para celebrar "à moda antiga".
 
 Esse ano foi um pouco diferente do que de costume, assim como quase tudo que estamos vivendo ultimamente.
 Dessa vez passamos o meu aniversário longe de toda nossa família. Na verdade, todos aniversário da família vão ser desse jeito este ano.  
@@ -35,7 +35,7 @@ Porém ao mesmo tempo, não estou arrependido das escolhas que fizemos, por mais
 
 Sabíamos que estávamos deixando muito para trás, sem garantia alguma que daria certo.  
 Mas, assim como Bilbo, dissemos sim ao chamado de viver uma jornada inesperada para além das fronteiras do Condado.  
-Conhecer aquilo tudo aquilos que está para além das fronteiras e entender que o Condado é o meu lugar, e está sempre comigo.
+Conhecer tudo aquilo que está para além das fronteiras e entender que o Condado é o meu lugar, e está sempre comigo.
 
 
 > Bilbo: Você pode promoter que eu vou voltar?
