@@ -24,8 +24,7 @@ Com as minhas habilidades de um chimpanzé pré-alfabetizado, vou tentar explica
 
 Em um dos meus livros favoritos, tinha uma frase mais ou menos assim que me marcou muito:  
 
-`Crianças são ótimas em analisar`  
-`e péssimas em interpretar.`
+> Crianças são ótimas em analisar e péssimas em interpretar.
 
 Isso é tão real, tão forte... Porém tão difícil de por em prática.  
 Não importa o quanto você argumente e explique, é a sua conduta que vai educar.
@@ -55,48 +54,36 @@ E por mais maluco que pareça (*trocadalho do carilho*), Dom Quixote é um ótim
 
 Dom Quixote é alguém que, apesar de tudo conspirar contra ele (inclusive a realidade), não desiste de seguir seus ideais de cavalaria. Busca, a todo custo, ser justo com todos, respeitoso com as mulheres e defender os fracos e indefesos.
 
-`"Eu nasci em um mundo de ferro`  
-`para transformá-lo em ouro."`
+> "Eu nasci em um mundo de ferro para transformá-lo em ouro."
 
 Dom Quixote anda pelo mundo na companhia de Sancho e seu cavalo Rocinante, combatendo todo anti-valor e injustiça que há no mundo. Por mais que ele sempre leve a pior, jamais hesita de fazer o que é certo.
 
-`"Combater o inimigo imbatível`  
-`Suportar o sofrimento insuportável`  
-`Correr onde os bravos não ousam ir"`
+> "Combater o inimigo imbatível
+> Suportar o sofrimento insuportável
+> Correr onde os bravos não ousam ir"
 
 Nenhuma situação o intimida, nenhuma chacota o envergonha, nenhuma glória o envaidece, nenhuma pancada o impede de levantar-se novamente. Pois todas suas ações são para tornar o mundo um lugar melhor.
 
-`"Estar disposto a marchar para o inferno`  
-`por uma causa divina.`  
-`E eu sei, se eu apenas for verdadeiro`  
-`a essa missão gloriosa.`  
-`Que meu coração ficará em paz e calmo`  
-`quando chegar a hora do meu repouso eterno.`  
+> Estar disposto a marchar para o inferno por uma causa divina.
+> E eu sei, se eu apenas for verdadeiro a essa missão gloriosa.
+> Que meu coração ficará em paz e calmo quando chegar a hora do meu repouso eterno.
 
-`E o mundo será melhor devido a isso:`  
-`O fato de um homem, alvo de zombarias`  
-`e coberto de cicatrizes.`  
-`Ainda lutou com sua última gota de coragem`  
-`Para alcançar as estrelas inalcançáveis!"`
+> E o mundo será melhor devido a isso:
+> O fato de um homem, alvo de zombarias e coberto de cicatrizes.
+> Ainda lutou com sua última gota de coragem
+> Para alcançar as estrelas inalcançáveis!"
 
-E se ao final, nada der certo, não importa!!
+> E se ao final, nada der certo, não importa!!
 
-Pois sempre haverá quem foi impactado pelo exemplo e quem aprendeu pelo convívio.
+> Pois sempre haverá quem foi impactado pelo exemplo e quem aprendeu pelo convívio.
 
 
-`"Se você acha que me fez mal [os livros`  
-`de cavaleria], veja pelo seguinte:`  
-`Desde que me decidi me tornar cavaleiro`  
-`andante, fui justo, valoroso, cortês,`  
-`generoso, honesto.`  
-`Passei por aventuras fantásticas.`  
-`Vi coisas maravilhosas. E vi o homem`  
-`se tornar um pouco melhor.`  
-`Então se achas que me fez mal os`  
-`livros de cavaleria, é porque ainda`  
-`te faz mal a vida.`  
-`Os loucos são aqueles que decidem não`  
-`sair por ai a cata de aventuras."`
+> Se você acha que me fez mal [os livros de cavaleria], veja pelo seguinte:
+> Desde que me decidi me tornar cavaleiro andante, fui justo, valoroso, cortês, generoso, honesto.
+> Passei por aventuras fantásticas.
+> Vi coisas maravilhosas. E vi o homem se tornar um pouco melhor.
+> Então se achas que me fez mal os livros de cavaleria, é porque ainda te faz mal a vida.
+> Os loucos são aqueles que decidem não sair por ai a cata de aventuras."
 
 
 [Cenas do filme no Youtube - Dom Quixote e Dulcinéia][0]
